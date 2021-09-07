@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/testAppReact/static/css/main.bab0b925.chunk.css",
-    "main.js": "/testAppReact/static/js/main.179cbbcd.chunk.js",
-    "main.js.map": "/testAppReact/static/js/main.179cbbcd.chunk.js.map",
+    "main.js": "/testAppReact/static/js/main.7d339582.chunk.js",
+    "main.js.map": "/testAppReact/static/js/main.7d339582.chunk.js.map",
     "runtime-main.js": "/testAppReact/static/js/runtime-main.8766c9d9.js",
     "runtime-main.js.map": "/testAppReact/static/js/runtime-main.8766c9d9.js.map",
-    "static/js/2.009168cd.chunk.js": "/testAppReact/static/js/2.009168cd.chunk.js",
-    "static/js/2.009168cd.chunk.js.map": "/testAppReact/static/js/2.009168cd.chunk.js.map",
+    "static/js/2.16c58dfd.chunk.js": "/testAppReact/static/js/2.16c58dfd.chunk.js",
+    "static/js/2.16c58dfd.chunk.js.map": "/testAppReact/static/js/2.16c58dfd.chunk.js.map",
     "index.html": "/testAppReact/index.html",
     "static/css/main.bab0b925.chunk.css.map": "/testAppReact/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.009168cd.chunk.js.LICENSE.txt": "/testAppReact/static/js/2.009168cd.chunk.js.LICENSE.txt"
+    "static/js/2.16c58dfd.chunk.js.LICENSE.txt": "/testAppReact/static/js/2.16c58dfd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8766c9d9.js",
-    "static/js/2.009168cd.chunk.js",
+    "static/js/2.16c58dfd.chunk.js",
     "static/css/main.bab0b925.chunk.css",
-    "static/js/main.179cbbcd.chunk.js"
+    "static/js/main.7d339582.chunk.js"
   ]
 }
